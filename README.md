@@ -1,13 +1,15 @@
 # ML With Arefin 🤖
 
-Welcome to **ML With Arefin**! This repo has my ML notes and projects from Google Colaboratory. 📄 Notebooks and 📊 datasets included.
+Welcome to **ML With Arefin**! This repository contains my journey through Machine Learning, featuring in-depth explanations, projects, and practical applications. 📄 Notebooks, 📊 datasets, and more are included.
 
 ## Contents
-- 📄 Jupyter Notebooks (.ipynb)
+- 📄 Google Collab Notebooks (.ipynb - Interactive Python Notebook)
 - 📊 Datasets
+- 📦 Projects with Trained Models
+- 🌐 Streamlit Web Apps
 
 ## Status
-🚧 Still updating! This is just the basics. More to come!
+🚧 Still updating! This repository has evolved beyond the basics to cover models, their workings, and practical implementations. Stay tuned for more advanced content!
 
 ## Find Me
 - [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/arefin.amin.994/) 
