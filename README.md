@@ -5,8 +5,17 @@ Welcome to **ML With Arefin**! This repository contains my journey through Machi
 ## Contents
 - 📄 Google Collab Notebooks (.ipynb - Interactive Python Notebook)
 - 📊 Datasets
-- 📦 Projects with Trained Models
+- 📦 ML + DL Projects
+- ✅ Trained Models
 - 🌐 Streamlit Web Apps
+- 👻 Fast Api
+
+## Get Started
+😸 All of the Notes are available here too -- 
+```
+https://colab.research.google.com/drive/1Sj2fFRcxkQHBn1VsuKYkXtRltLco4Ol0?usp=sharing
+```
+Make a copy of this and use in your google colab. 
 
 ## Status
 🚧 Still updating! This repository has evolved beyond the basics to cover models, their workings, and practical implementations. Stay tuned for more advanced content!
